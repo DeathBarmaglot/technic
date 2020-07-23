@@ -1,1 +1,1 @@
-# technichttps://raw.githack.com/DeathBarmaglot/technic/master/index.html
+https://raw.githack.com/DeathBarmaglot/technic/master/index.html
